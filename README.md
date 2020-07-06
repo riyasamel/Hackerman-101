@@ -19,7 +19,7 @@
 * The app uses machine learning(CNN) to identify the car from its image by splitting the image in parts and using those parts get results.CNN image classifications takes an input image, processes it and classifies it under certain categories.
 
 
-![Screenshot alt text](https://drive.google.com/file/d/1T7jDaYHUFySPOSkNMVwYYPrqqKqunUyw/view?usp=sharing "This is an example of a basic CNN network.")
+![Image](https://drive.google.com/file/d/1T7jDaYHUFySPOSkNMVwYYPrqqKqunUyw/view?usp=sharing "This is an example of a basic CNN network.")
 
 
 * First to train the ML program to identify images, we use a dataset with preferably a large number of images. From these images we first identify the part that contains the car in it.
