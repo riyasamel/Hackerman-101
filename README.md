@@ -126,8 +126,6 @@ Ensure that you have all the packages required.
 ![Screenshot alt text](https://drive.google.com/file/d/1nbr9bOzpv8h-wkYpn017UvkIdprM0oUe/view?usp=sharing.png "This is the Home Page.")
 
 
-![Screenshot alt text](https://drive.google.com/file/d/13PNch1rklGB7iyjGva1jLKqO4GN3KWaW/view?usp=sharing.png "This is the Predict Page.")
+![Screenshot alt text](https://drive.google.com/file/d/1Igs66RjBE6iLvh30tk8aItNtqWwzWRuU/view?usp=sharing.jpg "This is the Predict Page.")
 
-
-![Image](https://edtimes.in/wp-content/uploads/2018/09/NikeMeme10-640x633.jpg "Here is a screenshot")
 
